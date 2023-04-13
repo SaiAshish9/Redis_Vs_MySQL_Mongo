@@ -51,6 +51,8 @@ Data structured supported by redis instance:
 
 <img width="1782" alt="Screenshot 2023-04-13 at 10 48 19 AM" src="https://user-images.githubusercontent.com/43849911/231660632-c317018c-d4f3-48f8-86f3-224603e2c23b.png">
 
+<img width="1270" alt="Screenshot 2023-04-13 at 11 01 16 AM" src="https://user-images.githubusercontent.com/43849911/231662483-37adbdf5-8d1a-4366-9eda-328200ca8818.png">
+
 <img width="1789" alt="Screenshot 2023-04-13 at 10 54 46 AM" src="https://user-images.githubusercontent.com/43849911/231661528-f414856a-d944-4612-8d95-16eacbadf86b.png">
 
 <img width="1790" alt="Screenshot 2023-04-13 at 10 59 32 AM" src="https://user-images.githubusercontent.com/43849911/231662211-dafa1565-7aea-4595-96c1-3609e0419363.png">
